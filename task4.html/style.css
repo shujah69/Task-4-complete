@@ -7,10 +7,15 @@
 .header * {
     margin: 5px;
 }
-
+.header h1{
+    letter-spacing: 2px; 
+    font-weight: 900;
+    font-size: 20px;
+}
 .header h3 {
     border-bottom: 2px solid black;
     letter-spacing: 2px;
+    color: rgb(133, 30, 30);
 }
 
 .nav-bar a {
@@ -284,7 +289,10 @@ margin: 0;
     width: 300px;
     font-size: 20px;
 }
-
+.practice-area{
+    display: flex; 
+    justify-content: space-between;
+}
 .practice-area p{
     font-size: 30px;
     font-weight: bold;
@@ -395,7 +403,7 @@ color: #980E0B;
     margin-left: 35px;
     font-size: 20px;
     padding: 0px 12px 0px 15px;
-    border: 0;
+    border: 0; 
     background-color: #980E0B;
     color: white;
     box-shadow: rgba(0, 0, 0, 0.75) 0px 3px 6px, rgba(0, 0, 0, 0) 0px 3px 6px;

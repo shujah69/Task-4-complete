@@ -1,0 +1,160 @@
+@media (width<=1200px){
+
+
+}
+@media (width<=998px){
+
+    .question-left a{
+        font-size: 20px;
+        }
+        .question-right p{
+            margin-top: -30px;
+        }
+        .information p{
+            margin-left: 10px;
+            font-size: 20px;
+            width: 400px;
+        }
+        .forms-container div{
+            width: 50%;
+        }
+        .row {
+            display: grid
+        ;
+            grid-template-columns: 50% 50%;}
+        textarea{
+           width: 300px;
+        }
+       .button{
+        padding: 7px 15px;
+        margin-left: 2px;
+        font-size: 13px;
+font-size: 15px;
+       }
+       .confidential img {
+        margin-right: 5rem;
+        width: 130px;
+        rotate: 20deg;}
+       .item-1 P{
+        font-size: 30px;
+       }
+        .free-case p{
+margin-left: 10px;
+        }
+        .para-1 p{
+            width: 250px;
+           font-size: 20px;
+           margin-left: 10px;
+        }
+        .para-2 p{
+            width: 250px;
+            font-size: 20px;
+            margin-left: 10px;
+        }
+        .grid-container{
+            display: grid;
+    grid-template-columns: 50% 50%;
+        }
+        .box-4{
+align-items: center;
+justify-content: center;
+margin-left: 370px;
+        }
+        .images{
+            display: flex;
+            margin: 20px;
+        }
+        .content{
+            width: 150px;
+            height: 80px;
+        }
+        .Dui-box p{
+            font-size: 14px;
+        }
+        .learn-more a{
+            padding-right: 0px;
+        }
+        .Dui-box img{
+width: 8px;
+        }
+        .center-h1 p{
+            margin: 0px 10px 0px 20px;
+        }
+      .center-h1 h1{
+        font-size: 30px;
+        margin-left: 45px;
+    }
+    .practice-area p{
+        font-size: 23px;
+    }
+      .center-h1 p{
+        font-size: 20px;
+      }
+      .button-2 button{
+        margin-left: 20px;
+    }
+    .menu-area p {
+margin-left: 10px;
+    }
+    .TESTIMONAL p{
+        font-size: 20px;
+       
+    }
+        
+}
+@media (width<=768px){
+body{
+   /* background-color: red;*/
+}
+.row{
+    grid-template-columns: 1fr;
+    
+}
+.left{
+    height: 50vh;
+}
+.grid-container{
+    margin-top: 400px;
+    gap: 20px;
+    grid-template-columns: 1fr;
+    padding: 10px 70px ;
+}
+.box-4{
+    margin-left: 80px;
+}
+.click-here{
+    float: none;
+}
+.header {
+    font-size: 15px;
+    width: 300px;
+}
+.question-left a{
+    font-size: 30px;
+}
+.question-right p{
+    margin-top: -50px;
+}
+textarea{
+    width: 500px;
+}
+.information p{
+    width: 600px;
+    font-size: 25px;
+    margin-left: 45px;
+}
+.confidential img{
+    width: 200px;
+    margin-right: 8rem;
+}
+.button{
+    margin-left: 10px;
+    font-size: 23px;
+}
+.center-h1 p{
+    margin: 0px 10px 0px 20px;
+}
+}
+
+        
+
